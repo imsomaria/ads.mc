@@ -1,24 +1,32 @@
 p {
-    color:rgb(135, 26, 26);
+    color:rgb(0, 71, 10);
     text-align: center;
 }
 h1 {
-    color:rgb(135, 26, 26);
+    color:rgb(0, 71, 10);
     font: arial;
+    text-align: center;
 }
 h2 {
-    color:rgb(135, 26, 26);
+    color:rgb(0, 71, 10);
     text-align: center;
 }
 /* CSS Document */
 body {
-    background-color: #eec5de;
+    background-color: rgb(0, 71, 10);
 }
 address{
     font: arial;
-    color: rgb(135, 26, 26);
+    color: rgb(0, 71, 10);
     text-align: center;
 }
 a {
-    color: rgb(135, 26, 26);
+    color:rgb(0, 71, 10);
+    text-align: center;
+}
+body{
+    background-image: url(https://i.pinimg.com/736x/75/8e/f4/758ef430226d768185e570ea0b509702.jpg);
+}
+p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
